@@ -35,6 +35,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Skills
 
+
+
 ### Hard Skills
 
 - Python
